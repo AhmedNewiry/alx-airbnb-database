@@ -1,1 +1,1 @@
-![Airbnb Entity Relationship Diagram](images/ "Airbnb ERD")
+![Airbnb Entity Relationship Diagram](images/airbnb_erd.png "Airbnb ERD")
